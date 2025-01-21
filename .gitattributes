@@ -1,3 +1,5 @@
+backend/models/Faster[[:space:]]R-CNN/faster_rcnn_solar_panel_finetuned[[:space:]](1).pt filter=lfs diff=lfs merge=lfs -text
+backend/models/SSD/ssd_model_final10.pt filter=lfs diff=lfs merge=lfs -text
 *.pyc filter=lfs diff=lfs merge=lfs -text
 *.py filter=lfs diff=lfs merge=lfs -text
 *.pt filter=lfs diff=lfs merge=lfs -text
