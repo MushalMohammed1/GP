@@ -1,4 +1,4 @@
-# AI-Powered Solar Panel Defect Detection System 🌞🔍
+# Graduation Project: AI-Powered Solar Panel Defect Detection System 🌞🔍
 
 This project presents a **website** that leverages artificial intelligence to optimize solar panel performance. Using state-of-the-art object detection models—**YOLOv8**, **SSD**, and **Faster R-CNN**—the system automates the detection of defects like microcracks, hotspots, and other issues affecting solar panel efficiency. This innovative approach ensures timely maintenance, reduces operational costs, and maximizes energy output.
 
