@@ -27,3 +27,17 @@ This project introduces a **website** designed to optimize solar panel performan
 
 ---
 
+## 👥 Team Members
+- **Mushal Alshagha**  
+- **Abdullah Bin Nahedh**  
+- **Musaad Almutairi**  
+- **Abdulmohsen Aldoigayim**
+
+---
+
+## 🌍 Supporting Vision 2030
+This system aligns with **Saudi Arabia's Vision 2030**, promoting sustainability and energy security by improving the efficiency and reliability of solar energy production.
+
+---
+
+
